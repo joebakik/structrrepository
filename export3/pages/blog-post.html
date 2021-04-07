@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!-- @structr:owner(admin), @structr:grant(admin,arwd) --><html lang="en">
+	<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+	<head>
+		<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+		<meta charset="utf-8">
+		<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+		<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+		<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+		<meta content="" name="description">
+		<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+		<meta content="" name="author">
+		<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+		<title><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->Blog Post - Start Bootstrap Template</title><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Bootstrap core CSS -->
+		<!-- @structr:link(/vendor/bootstrap/css/bootstrap.min.css), @structr:owner(admin), @structr:grant(admin,arwd) -->
+		<link href="${link.path}?${link.version}" rel="stylesheet"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Custom styles for this template -->
+		<!-- @structr:link(/css/blog-post.css), @structr:owner(admin), @structr:grant(admin,arwd) -->
+		<link href="${link.path}?${link.version}" rel="stylesheet">
+	</head>
+	<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+	<body>
+		<!-- @structr:private, @structr:owner(admin), @structr:grant(admin,arwd) -->
+		<structr:component src="1b75cb893d1d463c9a128a2cc42004d6">
+		</structr:component><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Page Content -->
+		<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+		<div class="container">
+			<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+			<div class="row"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Post Content Column -->
+				<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+				<div class="col-lg-8"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Title -->
+					<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+					<h1 class="mt-4"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->${current.title}
+</h1><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Author -->
+					<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+					<p class="small " data-structr-attr="aPerson" data-structr-id="${current.id}"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->door ${current.aPerson.firstName} ${current.aPerson.lastName}</p><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Date/Time -->
+					<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+					<p class="small " data-structr-attr="publicationDate" data-structr-id="${current.id}" data-structr-raw-value="${current.publicationDate}"></p>
+					<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+					<hr><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Post Content -->
+					<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+					<p class="lead" data-structr-attr="text" data-structr-id="${current.id}"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->${current.teaser}</p>
+					<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+					<p class="normal " data-structr-attr="text" data-structr-id="${current.id}"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->${current.text}</p>
+					<!-- @structr:private, @structr:owner(admin), @structr:grant(admin,arwd) -->
+					<button class="cta.button" data-structr-action="edit:BlogPost" data-structr-attributes="aPerson, text, publicationDate" data-structr-confirm="true" data-structr-id="${current.id}" data-structr-reload="true"><!-- @structr:public, @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->Edit</button><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Comments Form -->
+				</div><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Sidebar Widgets Column -->
+				<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+				<div class="col-md-4"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Search Widget -->
+					<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+					<div class="card my-4">
+						<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+						<h5 class="card-header"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->Search</h5>
+						<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+						<div class="card-body">
+							<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+							<div class="input-group">
+								<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+								<input class="form-control" placeholder="Search for..." type="text"><!-- @structr:owner(admin), @structr:grant(admin,arwd) --><span class="input-group-append">
+									<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+									<button class="btn btn-secondary" type="button"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->Go!</button>
+								</span>
+							</div>
+						</div>
+					</div><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Categories Widget -->
+					<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+					<div class="card my-4">
+						<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+						<h5 class="card-header"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->Thema's</h5>
+						<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+						<div class="card-body">
+							<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+							<div class="row">
+								<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+								<div class="col-lg-6">
+									<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+									<ul class="list-unstyled mb-0">
+										<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+										<li><!-- @structr:owner(admin), @structr:grant(admin,arwd) --><a href="#"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->Web Design</a></li>
+										<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+										<li><!-- @structr:owner(admin), @structr:grant(admin,arwd) --><a href="#"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->HTML</a></li>
+										<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+										<li><!-- @structr:owner(admin), @structr:grant(admin,arwd) --><a href="#"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->Freebies</a></li>
+									</ul>
+								</div>
+								<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+								<div class="col-lg-6">
+									<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+									<ul class="list-unstyled mb-0">
+										<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+										<li><!-- @structr:owner(admin), @structr:grant(admin,arwd) --><a href="#"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->JavaScript</a></li>
+										<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+										<li><!-- @structr:owner(admin), @structr:grant(admin,arwd) --><a href="#"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->CSS</a></li>
+										<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+										<li><!-- @structr:owner(admin), @structr:grant(admin,arwd) --><a href="#"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->Tutorials</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Side Widget -->
+					<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+					<div class="card my-4">
+						<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+						<h5 class="card-header"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->Side Widget</h5>
+						<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+						<div class="card-body"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) --> You can put anything you want inside of these side widgets. They are easy to use, and feature the new Bootstrap 4 card containers! </div>
+					</div>
+				</div>
+			</div><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- /.row -->
+		</div><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- /.container --><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- Footer -->
+		<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+		<footer class="py-5 bg-dark">
+			<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+			<div class="container">
+				<!-- @structr:owner(admin), @structr:grant(admin,arwd) -->
+				<p class="m-0 text-center text-white"><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/plain) -->Natural content design | 2021</p>
+			</div><!-- @structr:owner(admin), @structr:grant(admin,arwd), @structr:content(text/html) --><!-- /.container -->
+		</footer>
+	</body>
+</html>

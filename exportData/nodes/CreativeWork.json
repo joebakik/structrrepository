@@ -1,0 +1,643 @@
+[
+{
+  "Twittermessage": false,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1617656869469,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "f56cfdd351ec44a89d4dfc0837548ea7",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1617656942717,
+  "name": "Voor de periode na 2030 is kernenergie een serieuze optie. Samen met de energiesector ontwikkelen we daarom nieuwe plannen voor tenminste twee extra kerncentrales.",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Quotation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.sp.nl/verkiezingsprogramma-2021",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1617657618809,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "5e3f2fe7d1114bc98cf4258a2e21e8f2",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1617657657832,
+  "name": "Stel een daad",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "PoliticalProgram",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://ja21.nl/standpunten/",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616535439303,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "0c955856f2174dc4925fd04ee6048c83",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616535534899,
+  "name": "Welkom thuis bij JA21",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "PoliticalProgram",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "PublicationDate": 1610751600000,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615506687791,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "c7ba76265a0043bdb0e1f701df6cd432",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615506748091,
+  "name": "Studio Energie: wat de regering...",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Podcast",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.pvda.nl/verkiezingen/verkiezingsprogramma/duurzaamheid/",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615842121207,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "ee605eda55234ac38c5f9e42e1666477",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616022194285,
+  "name": "Ons plan voor een schone en duurzame toekomst",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "PoliticalProgram",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Twittermessage": false,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1617657967339,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "75a8d3115d884443b72aff9987153c8a",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1617658001830,
+  "name": "Kernenergie is niet veilig en schoon (waaronder het kernafval) en voor ons geen duurzaam alternatief.",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Quotation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Twittermessage": false,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1617660977187,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "b63678a22bc148f8b797df801d76aa5b",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1617661008403,
+  "name": "De Partij voor de Dieren zet in op een exitstrategie voor energie van olie, kolen en gas. Kolencentrales worden zo snel mogelijk gesloten.",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Quotation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.essent.nl/kennisbank/stroom-en-gas/energiebronnen/energiebronnen",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616968389374,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "62e497490f6b4c3ead94ae0b5dad133c",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616968681216,
+  "name": "Welke energiebronnen zijn er allemaal?",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "NewsArticle",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.rijksoverheid.nl/actueel/nieuws/2021/03/12/sector-en-overheden-sluiten-green-deal-h2-wijken",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615579355394,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "9b8a94a1ef9a481fae73728858d48207",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616104203013,
+  "name": "Sector en overheden sluiten Green Deal H2-Wijken",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "NewsArticle",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Twittermessage": false,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616968226105,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "40ea3d8aa1c6462aaea6e2c4ad1edc31",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616968600237,
+  "name": "Olie wordt niet meer gebruikt in elektriciteitscentrales in Nederland.",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Quotation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Twittermessage": false,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616707466479,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "db91aa4a9ee7475cb381cdb0781d2820",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616708976576,
+  "name": "Met de volgende ijstijd komt er hier een ijskorst van twee kilometer dik te liggen. Dan is er ook geen Londen, meer, geen Parijs of Amsterdam. Maar ons afval is dan veilig, in de rotsbodem die hier al twee miljard jaar ligt.",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Quotation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.wattisduurzaam.nl/32974/energie-beleid/kernenergie-levert-0-tot-7-van-de-co2-reductie-tot-2050/",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616534478547,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "f729f23be05047fdafa5adfe3ffbbeb0",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616534803928,
+  "name": "Kernenergie levert 0 tot 12% van de CO2-reductie tot 2050",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "NewsArticle",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615506588679,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "b883555c03aa48809dcea493d5b27cf6",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615506624197,
+  "name": "Tegenlicht: Energieopslag",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "BroadcastService",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Twittermessage": false,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1617658066643,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "633381061fd94b5e9c1be61bf1563730",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1617658093229,
+  "name": "De kolencentrales worden gesloten, evenals de kerncentrale bij Borssele",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Quotation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Twittermessage": false,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616968950571,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "a69472c795f0431b9d9bb65b682a6011",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616969858170,
+  "name": "Een van de drie gloednieuwe Nederlandse kolencentrales is kapot. Dit zegt energiedeskundige Remco de Boer in De Ochtendspits. Het gaat om de in 2015 geopende centrale op de Maasvlakte, die de Amerikaanse investeringsmaatschappij Riverstone in 2019 van Engie overnam.",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Quotation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.nrc.nl/nieuws/2021/03/19/pas-op-mens-uit-het-jaar-7050-hier-ligt-kernafval-a4036439#/handelsblad/2021/03/20/#406",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616707260717,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "96eafc5ee4f946ada0f159a8aa7a7872",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616707335811,
+  "name": "Pas op, mens uit het jaar 7050, Kernafval!",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "NewsArticle",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Twittermessage": false,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616707372698,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "91d69ebfc06141f6b1c969b982cc43a7",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616707404896,
+  "name": "Kernenergie staat weer op de politieke agenda. Maar wat doen we met het radioactieve afval? Hoe vertel je de mensen die over duizenden jaren leven dat dat onder de grond ligt?",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Quotation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Twittermessage": false,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1617656746217,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "766b11910fac405fb239f9aae459090b",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1617657277214,
+  "name": "Bij de aanleg en bouw van grote windmolens en zonneparken worden natuur en landbouwgronden zoveel mogelijk ontzien, zeker zolang er op daken nog volop ruimte is voor zonnepanelen. Ook wordt altijd als eerste de directe omgeving geraadpleegd. ",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Quotation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.vvd.nl/standpunten/kernenergie/",
+  "PublicationDate": 1614553200000,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615579856484,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "1fed265bf9444db3945fc096681577bd",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616022188439,
+  "name": "Samen aan de slag. Nieuwe keuzes voor een nieuwe tijd. ",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "PoliticalProgram",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://d66.nl/klimaat-energie/#voor-welke-vormen-van-energie-kiest-d66?452",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615841187767,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "2a2d18a3e4284f9fbcbb8a19c9808ba3",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616022180178,
+  "name": "Waarom D66 kiest voor energie die écht groen is",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "PoliticalProgram",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.bnr.nl/nieuws/duurzaamheid/10401855/nieuwe-kolencentrale-nu-al-kapot",
+  "PublicationDate": 1580997600000,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616968992305,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "19645bf194704cc0badca1cb8312d532",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616969106621,
+  "name": "Nieuwe kolencentrale nu al kapot",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "NewsArticle",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Twittermessage": false,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616705804098,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "5bc2af370078482fbc336ac666459bc2",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616705827911,
+  "name": "Belangrijk argument voor nader onderzoek naar kernenergie is de „slag om de ruimte” in de provincie, aldus de Brabantse gedeputeerde Eric de Bie (Energie, Forum voor Democratie). De vraag naar kernenergie is volgens hem „uit nood geboren”.",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Quotation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.partijvoordedieren.nl/standpunten/milieu-klimaat-en-energie",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1617660871847,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "153490971ddd409e8ef59cc16f47d99c",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1617661218591,
+  "name": "Schoon milieu en krachtig klimaantbeleid",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "PoliticalProgram",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Twittermessage": false,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1617661079936,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "f095d9f3d6be4c6380d4c35fa87aa1ce",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1617661099521,
+  "name": "Het is moreel niet verantwoord om toekomstige generaties met nog meer kernafval op te zadelen dat duizenden jaren gevaarlijk blijft. ",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Quotation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.nrc.nl/nieuws/2021/03/25/noord-brabant-wil-wel-een-kerncentrale-a4037245",
+  "PublicationDate": 1616626800000,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616705597026,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "384fa6f2f2a545d79ab9746b4f24dc0a",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616705787504,
+  "name": "Noord-Brabant wil wel een kerncentrale",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "NewsArticle",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.pvv.nl/images/09012020/verkiezingen2020/0acxyuew34z/VerkiezingsProgramma2021-Final.pdf",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616535912859,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "29445452fbed427e9cfda850c55acefa",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616536035597,
+  "name": "Het gaat om u",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "PoliticalProgram",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://d14uo0i7wmc99w.cloudfront.net/CDA/2020/TK2021/CDA-verkiezingsprogramma%5B2021-2025%5D.pdf",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1617656394354,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "af4d2b2953974d528031aeac766941a4",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1617656439572,
+  "name": "Nu doorpakken",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "PoliticalProgram",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://www.nrc.nl/nieuws/2021/03/10/weeg-risicos-opnieuwvoor-je-voor-kernenergie-pleit-a4035050",
+  "PublicationDate": 1615330800000,
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615541500981,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "cec269b46d7e4784b0840d979d05f67e",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615543349986,
+  "name": "Meer mensen overleden door evacuaties ná \u0027Fukushima\u0027 dan door de kernramp zelf. Leer daarvan.",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "NewsArticle",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Adress": "https://d3n8a8pro7vhmx.cloudfront.net/themes/5f046e874445ea153fad59b0/attachments/original/1615565627/Verkiezingsprogramma_FVD_2021.pdf?1615565627",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616165735892,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "8ce80525a8f54b37acd88ec728c5cceb",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616166026458,
+  "name": "Stem Nederland terug.",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "PoliticalProgram",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+}
+]

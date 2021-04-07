@@ -1,0 +1,28 @@
+[
+  {
+    "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+    "createdDate": 1615326260973,
+    "id": "7c3ca733d4e64c6893fb7c1a7d9f4682",
+    "internalTimestamp": "000001615326260973.000134239116018333",
+    "lastModifiedDate": 1615326260973,
+    "relType": "SYNC",
+    "sourceId": "1b75cb893d1d463c9a128a2cc42004d6",
+    "targetId": "47d2c989b6bd44f982d9f7fc559dc1cd",
+    "type": "DOMNodeSYNCDOMNode",
+    "visibleToAuthenticatedUsers": false,
+    "visibleToPublicUsers": false
+  },
+  {
+    "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+    "createdDate": 1615326390234,
+    "id": "1402fc8c5f724b54813527ea6bcc49a9",
+    "internalTimestamp": "000001615326390234.000134368379929291",
+    "lastModifiedDate": 1615326390234,
+    "relType": "SYNC",
+    "sourceId": "1b75cb893d1d463c9a128a2cc42004d6",
+    "targetId": "ea73bfe230644342963a30abface2e2f",
+    "type": "DOMNodeSYNCDOMNode",
+    "visibleToAuthenticatedUsers": false,
+    "visibleToPublicUsers": false
+  }
+]

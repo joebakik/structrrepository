@@ -1,0 +1,15 @@
+[
+  {
+    "createdBy": "00000000000000000000000000000000",
+    "createdDate": 1616941343164,
+    "id": "e41e96e9f23e4653a8394975365e56ff",
+    "internalTimestamp": "000001616941343165.000154843945882122",
+    "lastModifiedDate": 1616941343164,
+    "relType": "WORKING_DIR",
+    "sourceId": "e1542d3e9a434bcfab474174e92b099f",
+    "targetId": "0e4f9aa45c984f87b8c5c4c08c0aa4dd",
+    "type": "UserWORKING_DIRFolder",
+    "visibleToAuthenticatedUsers": false,
+    "visibleToPublicUsers": false
+  }
+]

@@ -1,0 +1,338 @@
+[
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615541851152,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "4ce0fea3efa945f9a009a913359f2292",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615541861886,
+  "name": "Writer",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1612909223044,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "07c4ea5f69e24343a0d7481a17c77066",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1612909852656,
+  "name": "Directeur Gastransitie Groningen",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615488813490,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "506773368bd34715a01de9c673974316",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615488827873,
+  "name": "Manager Strategie",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1612908514387,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "7862e447b793422fa40d82f7b7951195",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1612908541761,
+  "name": "Directeur Generaal Klimaat en Energie",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1612910985832,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "043d04ab0c3d40d28f5b771b0a86dd6b",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1612911051974,
+  "name": "Tweedekamerlid",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615488717659,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "0e59f7b898594431929fa4822b190cf7",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615488735214,
+  "name": "Lector Engergietansitie",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1612909417589,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "ed8971987f444ab28c927e3f53853114",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1612909431803,
+  "name": "Projectdirectie Groningen",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615541863879,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "7d062ad283c346bd8d55adc176b50a82",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615541884343,
+  "name": "Strategist",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1613057828912,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "a1307f23a8d345c0a64a9a93ba389442",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1613057859103,
+  "name": "Ingenieur",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1612909235019,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "1146905266a04e43b6dd75bb977b69dc",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1612909406252,
+  "name": "Directeur Elektriciteit",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615489743070,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "bc343e67fe924c10930e6079788992f2",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615489771550,
+  "name": "Sectorexpert wind op land",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1614348144795,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "0b01f9d00441436294f96c7b6bb0927e",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1614348156425,
+  "name": "Directeur\n",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1612909212739,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "9a9c742e9a5b448890a1c7e632443636",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1612909415259,
+  "name": "Directeur Klimaat",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615541833596,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "d9924df194ca4d49990c8c62ce68d840",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615541848037,
+  "name": "Artist",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1613509925234,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "a6429e410b0b4e7887ea267d47dc2258",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1613509935162,
+  "name": "Content engineer",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615840821689,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "2cf8a24233d74460855714c8ba7e809f",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615840844102,
+  "name": "Woordvoerder energie en klimaat",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Occupation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+}
+]

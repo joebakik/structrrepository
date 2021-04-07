@@ -1,0 +1,41 @@
+[
+  {
+    "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+    "createdDate": 1617574147405,
+    "id": "065117e399da4b9f8a30d7202e93e5f6",
+    "internalTimestamp": "000001617574147405.000204316261212334",
+    "lastModifiedDate": 1617574147405,
+    "relType": "source",
+    "sourceId": "f279fc498067476ca1c7fa27d239c47e",
+    "targetId": "19645bf194704cc0badca1cb8312d532",
+    "type": "PersonsourceCreativeWork",
+    "visibleToAuthenticatedUsers": false,
+    "visibleToPublicUsers": false
+  },
+  {
+    "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+    "createdDate": 1616589336825,
+    "id": "96c94377a51a4a92898fa80edb521ab3",
+    "internalTimestamp": "000001616589336826.000029197993006218",
+    "lastModifiedDate": 1616589336825,
+    "relType": "source",
+    "sourceId": "75139169e1ac45f8ac3850a998cee970",
+    "targetId": "4136c4ecc6a94b89a0b9ae4ae844a419",
+    "type": "PersonsourceCreativeWork",
+    "visibleToAuthenticatedUsers": false,
+    "visibleToPublicUsers": false
+  },
+  {
+    "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+    "createdDate": 1617657155281,
+    "id": "1452c972cf094ac7b1afa6ead584f640",
+    "internalTimestamp": "000001617657155282.000217898301238038",
+    "lastModifiedDate": 1617657155281,
+    "relType": "source",
+    "sourceId": "fef998d49d2a4dd1ad98fb82e5220a7b",
+    "targetId": "a0e7bc885d124842815ea30d01345421",
+    "type": "PersonsourceCreativeWork",
+    "visibleToAuthenticatedUsers": false,
+    "visibleToPublicUsers": false
+  }
+]

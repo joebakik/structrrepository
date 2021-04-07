@@ -1,0 +1,143 @@
+[
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615222609147,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "aa10da703f2b454ba12c66faf8e3bf5b",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615331336359,
+  "owner": {
+    "name": "admin"
+  },
+  "publicationDate": 1614985200000,
+  "text": "Nieuwe tekst, of is alles al gezegd?",
+  "title": "42",
+  "type": "BlogPost",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615237097161,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "ffef672d53a34e5bbd66066ec1261107",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615307851378,
+  "owner": {
+    "name": "admin"
+  },
+  "publicationDate": 1615158000000,
+  "teaser": "teaser",
+  "text": "Dit is een hele lange tekst die gaat over het nut van blogs en het bloggen ervan.\n\nKopje\nVoor iedereen die van nieuwe paragrafen houdt, volgt er hier eentje:\n- tekst\n- Meer tekst",
+  "title": "Zei ik toch!",
+  "type": "BlogPost",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615149940571,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "a7a7e6e5e2ac4b3eb03601161931872b",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615237271265,
+  "owner": {
+    "name": "admin"
+  },
+  "publicationDate": 1614553200000,
+  "text": "Maar nu in lokale kleuren, met zand van de Sahara\n",
+  "title": "De reis zet zich voort",
+  "type": "BlogPost",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "author": "door Hans Karel Westerhof",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615080811518,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "812fb1dead8148fbb7fa8fb868d8b494",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615320348432,
+  "owner": {
+    "name": "admin"
+  },
+  "publicationDate": 1615158000000,
+  "teaser": "Over het nut van blogs en het bloggen ervan.",
+  "text": "Voor iedereen die van nieuwe paragrafen houdt, volgt er hier eentje:\n- tekst\n- Meer tekst\n- Veel meer tekst, die ook langer is dat de tekst bij de punten hierboven en als doel heeft om te kijken hoe de tekst zich voegt achter een bullet aan het begin.",
+  "title": "To post or not to...",
+  "type": "BlogPost",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615149893966,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "da2e3be11fe24b1bbef8c134025fd237",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615237122651,
+  "owner": {
+    "name": "admin"
+  },
+  "publicationDate": 1614898800000,
+  "text": "But in a digital form",
+  "title": "There will be blood!",
+  "type": "BlogPost",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615237085099,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "b8f91d1004c74785b83c71eb4cf17860",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615331331208,
+  "owner": {
+    "name": "admin"
+  },
+  "publicationDate": 1615071600000,
+  "text": "Ook een tekst over bloggen, maar dan over de doorlopende lijn.",
+  "title": "En hoe zit het met de lezer?",
+  "type": "BlogPost",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+}
+]

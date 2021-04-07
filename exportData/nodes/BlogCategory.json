@@ -1,0 +1,65 @@
+[
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615239595845,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "48f7bfadd20044ed92de1d063f516a54",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615239608597,
+  "name": "Javascript",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "BlogCategory",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615239552167,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "fd01dbf4e1c2445ba048d348cb7a879e",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615239564199,
+  "name": "CSS",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "BlogCategory",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615239573134,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "9d13485fae6e415983782d073bbc31b4",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615239582862,
+  "name": "HTML",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "BlogCategory",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+}
+]
