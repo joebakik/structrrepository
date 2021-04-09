@@ -1,0 +1,466 @@
+[
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616534950965,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "f32ec08ff96546e991c70039a979c40f",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616534959428,
+  "name": "JA21",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "Description": "Branchevereniging van de windsector",
+  "FullName": "Nederlandse WindEnergie Associatie",
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615489431044,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "df4af282bca741f894046a1e9f1eda8d",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615489590331,
+  "name": "NWEA",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615485524909,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "f8fc60449a4a43a0a4f666f3f9d7dde7",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1617660817897,
+  "name": "Partij voor de dieren",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1617574175669,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "5eeecc09cd284b2e890036b33f9f1049",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1617574304453,
+  "name": "BNR Niewsradio",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615485665803,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "7e96b4290ceb42719c82f1cd229741b2",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615485695745,
+  "name": "CDA",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615485718353,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "cbdf3bb6f7fd42b694001fc89de7f838",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615485731533,
+  "name": "PvdA",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1614347942913,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "c670583c483e440884418b5d9eb1a5b5",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1614347970400,
+  "name": "NVDE",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1612908634271,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "bc9ec66dfc3d4bb1bb7eeeab1597fb4f",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1612908658300,
+  "name": "Ministerie van Economische Zaken en Klimaat",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615488676442,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "f9bf921e948b455e88f89cb1ce09fc55",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615488692936,
+  "name": "Hanzehogeschool",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615488845413,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "0a194f612b3347bf89ea86d7ce3b3ece",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615488851194,
+  "name": "Gasunie",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615485697293,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "05d2a139e9b145ac8dfeb63a12706339",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615485716929,
+  "name": "SP",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616165893977,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "bf7530b6d185429fbab18b8bd8b8db2b",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616165935014,
+  "name": "Groen Links",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616165878239,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "a495a19c95c342ed8f184ce98a221b2a",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616167919825,
+  "name": "Forum voor Democratie",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615485735272,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "4843614033bb48a3976f33c1e2006fb3",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615485759596,
+  "name": "Partij voor de Dieren",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615541575258,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "c996809184474deca6e1cb4ab188b904",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615582993060,
+  "name": "PVV",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615485535941,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "f5f700af26504d5e9aa531863366dc1b",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615485544230,
+  "name": "D66",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1613059786808,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "88efe97ba61149c39da53419727b0d22",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1613510604403,
+  "name": "VPRO",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615541562009,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "85e4dfe4d102456dbd4833d917624404",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615541590848,
+  "name": "NRC",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615420306940,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "7c52754bb37442a887ea5e74856ae95a",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615420325746,
+  "name": "GroenLinks",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1616968334130,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "3cb953ccd6eb4cce95ddbf13a99b6f03",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1616968352330,
+  "name": "Essent",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1615485514655,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "ec9e13d87b4749379fe43b33d5eb0ffb",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1615485523213,
+  "name": "VVD",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+},
+{
+  "createdBy": "e1542d3e9a434bcfab474174e92b099f",
+  "createdDate": 1613739569367,
+  "grantees": [
+    {
+      "allowed": "accessControl,read,write,delete",
+      "name": "admin"
+    }
+  ],
+  "hidden": false,
+  "id": "e98ecce3599241a290662eb59f0fe50f",
+  "lastModifiedBy": "e1542d3e9a434bcfab474174e92b099f",
+  "lastModifiedDate": 1613739576470,
+  "name": "Informaat",
+  "owner": {
+    "name": "admin"
+  },
+  "type": "Organisation",
+  "visibleToAuthenticatedUsers": false,
+  "visibleToPublicUsers": false
+}
+]
